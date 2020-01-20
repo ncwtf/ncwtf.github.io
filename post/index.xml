@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 红鲤鱼与绿鲤鱼与驴</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on 红鲤鱼与绿鲤鱼与驴</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>akuma</copyright>
+    <lastBuildDate>Mon, 20 Jan 2020 15:34:19 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First</title>
+      <link>http://localhost:1313/post/first/</link>
+      <pubDate>Mon, 20 Jan 2020 15:34:19 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/first/</guid>
+      <description>OH~ SHIFT! label1 lkj lkj lkj lkj jl label2 lkj lkj lkj lkj jl label1 lkj lkj lkj lkj jl label2 lkj lkj lkj lkj jl fmt.print(&amp;#34;奥利给！！！&amp;#34;)</description>
+    </item>
+    
+  </channel>
+</rss>

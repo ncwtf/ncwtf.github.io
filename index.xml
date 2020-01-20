@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>红鲤鱼与绿鲤鱼与驴</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on 红鲤鱼与绿鲤鱼与驴</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>akuma</copyright>
+    <lastBuildDate>Mon, 20 Jan 2020 15:34:19 +0800</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>关于</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      
+        <description>&lt;p&gt;Hugo is a static site engine written in Go.&lt;/p&gt;
+&lt;p&gt;It makes use of a variety of open source projects including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cobra&#34;&gt;Cobra&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/viper&#34;&gt;Viper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/jWalterWeatherman&#34;&gt;J Walter Weatherman&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cast&#34;&gt;Cast&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Learn more and contribute on &lt;a href=&#34;https://github.com/gohugoio&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>http://localhost:1313/post/first/</link>
+      <pubDate>Mon, 20 Jan 2020 15:34:19 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/first/</guid>
+      
+        <description>&lt;h1 id=&#34;oh--shift&#34;&gt;OH~  SHIFT!&lt;/h1&gt;
+&lt;h2 id=&#34;label1&#34;&gt;label1&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;lkj&lt;/li&gt;
+&lt;li&gt;lkj&lt;/li&gt;
+&lt;li&gt;lkj&lt;/li&gt;
+&lt;li&gt;lkj
+&lt;ul&gt;
+&lt;li&gt;jl&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;label2&#34;&gt;label2&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;lkj&lt;/li&gt;
+&lt;li&gt;lkj&lt;/li&gt;
+&lt;li&gt;lkj&lt;/li&gt;
+&lt;li&gt;lkj
+&lt;ul&gt;
+&lt;li&gt;jl&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;label1-1&#34;&gt;label1&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;lkj&lt;/li&gt;
+&lt;li&gt;lkj&lt;/li&gt;
+&lt;li&gt;lkj&lt;/li&gt;
+&lt;li&gt;lkj
+&lt;ul&gt;
+&lt;li&gt;jl&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;label2-1&#34;&gt;label2&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;lkj&lt;/li&gt;
+&lt;li&gt;lkj&lt;/li&gt;
+&lt;li&gt;lkj&lt;/li&gt;
+&lt;li&gt;lkj
+&lt;ul&gt;
+&lt;li&gt;jl&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;fmt&lt;/span&gt;.print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;奥利给！！！&amp;#34;&lt;/span&gt;)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
