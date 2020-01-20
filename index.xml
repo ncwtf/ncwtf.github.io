@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>红鲤鱼与绿鲤鱼与驴</title>
-    <link>http://localhost:1313/</link>
+    <link>http://blog.fanht.me/</link>
     <description>Recent content on 红鲤鱼与绿鲤鱼与驴</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>akuma</copyright>
     <lastBuildDate>Mon, 20 Jan 2020 15:34:19 +0800</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://blog.fanht.me/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>关于</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://blog.fanht.me/about/</link>
       <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://blog.fanht.me/about/</guid>
       
         <description>&lt;p&gt;Hugo is a static site engine written in Go.&lt;/p&gt;
 &lt;p&gt;It makes use of a variety of open source projects including:&lt;/p&gt;
@@ -34,10 +34,10 @@
     
     <item>
       <title>First</title>
-      <link>http://localhost:1313/post/first/</link>
+      <link>http://blog.fanht.me/post/first/</link>
       <pubDate>Mon, 20 Jan 2020 15:34:19 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/first/</guid>
+      <guid>http://blog.fanht.me/post/first/</guid>
       
         <description>&lt;h1 id=&#34;oh--shift&#34;&gt;OH~  SHIFT!&lt;/h1&gt;
 &lt;h2 id=&#34;label1&#34;&gt;label1&lt;/h2&gt;
